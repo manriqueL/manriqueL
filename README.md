@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Programador orientado al futuro, con gusto por crear soluciones limpias, eficientes
+Programador orientado al futuro, con el objetivo de crear software moderno, limpio y eficiente.
 
 * 💡  No uso tanto Github, uso Bitbucket  
 * ✉️  Contacto: [manriquelucasp@gmail.com](mailto:manriquelucasp@gmail.com)
-* 🚀  Actualmente trabajando [SITIC](http://sitic.justicialarioja.gob.ar/login)
-Y los diversos sistemas del Tribunal Superior de Justicia 
+* 🚀  Actualmente trabajando en [SITIC](http://sitic.justicialarioja.gob.ar/login)
+y los diversos sistemas del Tribunal Superior de Justicia. 
 * 🧠  También estoy aprendiendo Node.js, explorando cómo integrarlo con Vue o React. El objetivo es dominar todo el flujo, desde el backend hasta el frontend. Ya habia visto algo en la universidad pero como empecé a trabajar con php lo había dejado de lado. 
 * 💬  Aun no tengo experiencia con clientes reales, la idea de aprender Node js y REACT o VUE es esa, poder ofrecer un servicio personalizado. Aun estoy en el proceso de aprendizaje pero pronto ya estaré haciendo paginas o aplicaciones web. 
 
