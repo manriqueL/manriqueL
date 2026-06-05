@@ -8,9 +8,6 @@ Programador orientado a lo bueno, con el objetivo de crear software escalable y 
 * 💡  Por el momento no uso tanto Github, principalmente uso Bitbucket.  
 * 🚀  Actualmente trabajando en el Tribunal Superior de Justicia de la provincia de La Rioja, dando mantenimiento, desarrollando o actualizando los divesos sistemas.
 * ✏️  Programador, graduado en la Universidad Tecnológica Nacional (UTN).
-* 🧠  Actualmente estoy realizando el curso de Data Analyst en Digital House.
-* Tambien estoy aprendiendo Node.js, explorando cómo integrarlo con Vue o React. El objetivo es dominar todo el flujo, desde el backend hasta el frontend. Ya había trabajado con Node.js y React en la universidad, pero al empezar a trabajar con PHP lo dejé de lado.
-* 💬  La idea de aprender Node.js junto con React o Vue es poder ofrecer un servicio personalizado a clientes, o postularme a puestos en empresas del sector. Actualmente sigo el curso de Fernando Herrera en Udemy para reforzar mis conocimientos.
 * ✉️  Contacto: [manriquelucasp@gmail.com](mailto:manriquelucasp@gmail.com) <br>
 
 
